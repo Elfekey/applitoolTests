@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T11:40:48 EET" name="Default suite" finished-at="2023-07-03T11:41:01 EET" duration-ms="13188">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T11:40:48 EET" name="Default test" finished-at="2023-07-03T11:41:01 EET" duration-ms="13188">
+      <class name="Tests.applitoolTests">
+        <test-method is-config="true" signature="setUpConfigAndRunner()[pri:0, instance:Tests.applitoolTests@17497425]" started-at="2023-07-03T11:40:41 EET" name="setUpConfigAndRunner" finished-at="2023-07-03T11:40:48 EET" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpConfigAndRunner -->
+        <test-method is-config="true" signature="openBrowserAndEyes()[pri:0, instance:Tests.applitoolTests@17497425]" started-at="2023-07-03T11:40:48 EET" name="openBrowserAndEyes" finished-at="2023-07-03T11:40:51 EET" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndEyes -->
+        <test-method signature="logIntoBankAccount()[pri:0, instance:Tests.applitoolTests@17497425]" started-at="2023-07-03T11:40:51 EET" name="logIntoBankAccount" finished-at="2023-07-03T11:40:59 EET" duration-ms="8185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIntoBankAccount -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Tests.applitoolTests@17497425]" started-at="2023-07-03T11:40:59 EET" name="cleanUpTest" finished-at="2023-07-03T11:41:01 EET" duration-ms="1695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+        <test-method is-config="true" signature="printResults()[pri:0, instance:Tests.applitoolTests@17497425]" started-at="2023-07-03T11:41:01 EET" name="printResults" finished-at="2023-07-03T11:41:31 EET" duration-ms="29927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printResults -->
+      </class> <!-- Tests.applitoolTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
